@@ -1,0 +1,27 @@
+.menu {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: max-content;
+    align-items: center;
+    justify-content: space-between;
+    padding: 57px 0;
+    background-color: #fff;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+.menu-nav {
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+    height: 70%;
+    gap: 42px 0;
+}
+
+
+.menu-nav a.active{
+    border-right: 5px solid #3db5cd;
+    border-radius: 3px;
+}

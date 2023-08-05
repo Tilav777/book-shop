@@ -1,0 +1,59 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Title",
+      "image": "../src/assets/book(1).png"
+    },
+    {
+      "id": 2,
+      "title": "Title",
+      "image": "../src/assets/book(2).jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Title",
+      "image": "../src/assets/book(3).jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Title",
+      "image": "../src/assets/book(4).jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Title",
+      "image": "../src/assets/book(5).jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Title",
+      "image": "../src/assets/book(6).jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Title",
+      "image": "../src/assets/book(7).jpeg"
+    },
+    {
+      "id": 8,
+      "title": "Title",
+      "image": "../src/assets/book(7).jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Title",
+      "image": "../src/assets/book(8).jpeg"
+    },
+    {
+      "id": 10,
+      "title": "Title",
+      "image": "../src/assets/book(9).jpeg"
+    },
+    {
+      "id": 11,
+      "title": "Title",
+      "image": "../src/assets/book(10).jpeg"
+    }
+  ]
+}

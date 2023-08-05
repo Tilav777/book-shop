@@ -1,0 +1,35 @@
+.popular-books {
+    display: flex;
+    flex-direction: column;
+}
+
+.popular-books h3 {
+    color: #222;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 40px;
+}
+
+.popular-books .books {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 34px;
+}
+
+.popular-books .books a {
+    display: flex;
+    flex-direction: column;
+}
+
+.popular-books .books a img {
+    width: 200px;
+    height: 300px;
+    margin-bottom: 10px;
+}
+
+.popular-books .books a span {
+    color: #222;
+    font-size: 24px;
+}
