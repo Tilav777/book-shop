@@ -13,8 +13,6 @@ function About() {
     }
     getData()
   },[url])
-  console.log(url);
-  console.log(datas);
 
   return (
     <div>
